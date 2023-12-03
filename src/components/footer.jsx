@@ -5,8 +5,8 @@ export default function footer() {
     <div className='mt-4'> 
       <footer className="bg-body-tertiary text-center text-lg-start">
         <div className="text-center p-3" style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>
-          © 2021 Computer Shop:
-          <a className="text-dark" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+          © 2023 Xpresss Pc Repair:
+          <a className="text-dark" href="https://Xpresss Pc Repair/">Xpresss Pc Repair</a>
         </div>
       </footer>
     </div>
